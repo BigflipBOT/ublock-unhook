@@ -1,0 +1,52 @@
+! May 12, 2025 https://www.youtube.com
+
+! May 12, 2025 https://www.facebook.com
+www.facebook.com##.x1n2onr6.xippug5.xg6iff7.xdt5ytf.x78zum5
+
+! May 14, 2025 https://www.reddit.com
+www.reddit.com##reddit-cookie-banner
+www.reddit.com##.block.xs\:pb-0.pb-xl.xs\:max-w-\[316px\].xs\:w-\[316px\].w-full.min-w-0.right-sidebar
+
+! May 14, 2025 https://stackoverflow.com
+stackoverflow.com##.vertical-align-content.ot-bottom-left.ot-iab-2.otFloatingRoundedCorner
+
+! May 14, 2025
+||accounts.google.com/gsi/*
+
+! May 14, 2025 https://www.youtube.com
+! Shorts
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2):has(yt-formatted-string:has-text(/^Shorts$/i))
+www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
+www.youtube.com##yt-chip-cloud-chip-renderer.yt-chip-cloud-renderer.style-scope:has(yt-formatted-string:has-text(/^Shorts$/i))
+www.youtube.com##yt-tab-shape:has-text(/^Shorts$/)
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com##yt-chip-cloud-chip-renderer:has(yt-formatted-string:has-text(/^Shorts$/i))
+www.youtube.com##ytd-shorts.ytd-page-manager.style-scope
+www.youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has([overlay-style="SHORTS"])
+
+! Recomendations on player
+www.youtube.com###secondary
+
+! Sidebar
+!www.youtube.com###contentContainer
+!www.youtube.com###contentContainer
+www.youtube.com###guide
+www.youtube.com###guide-button
+www.youtube.com##.ytp-autonav-overlay
+www.youtube.com###movie_player > .ytp-timely-actions-content.ytp-player-content
+!www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+
+! Comments
+!www.youtube.com###comments > .ytd-comments.style-scope
+
+! Channel and subscribe button
+!www.youtube.com###owner
+
+! Auto play disable
+/endscreen.js$script,xhr,important,domain=youtube.com
+
+
+! May 19, 2025 https://www.youtube.com
+!www.youtube.com##.ytp-autonav-endscreen-countdown-overlay
