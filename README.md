@@ -16,7 +16,7 @@ Features that are present and could be enabled:
 Note: this currently doesn't work well wih mobile devices, but I will try to implement it sometime in future.
 
 ### Installation
-It is imported as any other filter list - just simply open your uBlock Origin __settings__ then go into __My filters__  tab and click __Import and append__ and choose the correct file.
+It is imported as any other filter list - simply just open your uBlock Origin __settings__ then go into __My filters__  tab and click __Import and append__ and choose the correct file.
 
 ### Why?
-I found that the unhook firefox extension slow, also I din't like the default settings. I use uBlock Origin on all my devices (and you should too btw) so I created drop in filter list that replaces it functionality. Also less browser extensions is better for both privacy and performance.
+I found the unhook firefox extension slow, also I din't like the default settings. I use uBlock Origin on all my devices (and you should too btw) so I created drop in filter list that replaces its functionality. Also less browser extensions is better for both privacy and performance.
